@@ -1,0 +1,13 @@
+.idea
+.gradle
+
+api-adapter/build
+application/build
+client-adapter/build
+common/build
+configuration/build
+persistence-adapter/build
+build
+
+*.class
+*.log
